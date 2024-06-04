@@ -1,0 +1,30 @@
+.container{
+    max-width:1300px !important;
+    margin:0 auto;
+    position:relative;
+    
+}
+.container2{
+    max-width:1300px !important;
+    margin:0 auto;
+    position:relative;
+    padding-top:10px;
+
+}
+.container4{
+    padding:10px;
+}
+@media(max-width:1300px){
+    .container{
+        padding:0 1.5rem;
+    }
+}
+
+@media (max-width:1028px) {
+    .container2{
+        padding-top:20rem;
+        padding-left:3rem;
+        padding-right:3rem;
+    }
+    
+}
